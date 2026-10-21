@@ -1,0 +1,11 @@
+{
+  "searchStringsArray": ["restaurant"],
+  "locationQuery": "Downtown, Pittsburgh, Pennsylvania, USA",
+  "maxCrawledPlacesPerSearch": 30,
+  "language": "en",
+  "scrapePlaceDetailPage": true,
+  "maxReviews": 15,
+  "reviewsSort": "newest",
+  "maxImages": 10,
+  "bro": {"concurrency": 1, "maxRunSeconds": 1500, "evidence": "errors"}
+}

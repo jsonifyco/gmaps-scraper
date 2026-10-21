@@ -1,0 +1,20 @@
+{
+  "placeIds": [
+    "ChIJG6g-slDxNIgR2g4PV1mDO8I",
+    "ChIJPyb_JskEdkgRDw4ffzUc8cQ",
+    "ChIJCQNXddpRqEcRYM7pVt99ibw"
+  ],
+  "language": "en",
+  "scrapePlaceDetailPage": true,
+  "scrapeContacts": true,
+  "maxQuestions": 5,
+  "scrapeOrderOnline": true,
+  "scrapeTableReservationProvider": true,
+  "includeWebResults": true,
+  "maxImages": 10,
+  "scrapeImageAuthors": true,
+  "bro": {
+    "concurrency": 2,
+    "maxRunSeconds": 2400
+  }
+}

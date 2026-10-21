@@ -1,0 +1,13 @@
+{
+  "searchStringsArray": ["bakery"],
+  "locationQuery": "Kreuzberg, Berlin, Germany",
+  "maxCrawledPlacesPerSearch": 12,
+  "language": "en",
+  "scrapePlaceDetailPage": true,
+  "maxReviews": 25,
+  "reviewsSort": "newest",
+  "maxImages": 10,
+  "scrapeImageAuthors": true,
+  "scrapeContacts": true,
+  "bro": {"concurrency": 2, "maxRunSeconds": 2400, "evidence": "errors"}
+}

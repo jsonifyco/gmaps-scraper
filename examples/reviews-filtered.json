@@ -1,0 +1,20 @@
+{
+  "placeIds": [
+    "ChIJG6g-slDxNIgR2g4PV1mDO8I",
+    "ChIJPyb_JskEdkgRDw4ffzUc8cQ"
+  ],
+  "language": "en",
+  "scrapePlaceDetailPage": true,
+  "reviewsSort": "newest",
+  "maxReviews": 100,
+  "reviewsStartDate": "2026-01-01",
+  "reviewsFilterString": "great service",
+  "reviewsOrigin": "all",
+  "bro": {
+    "concurrency": 2,
+    "reviewsMode": "exact",
+    "reviewsDateCache": "runs/shared-dates.sqlite",
+    "reviewsEnrichBatch": 50,
+    "maxRunSeconds": 3600
+  }
+}

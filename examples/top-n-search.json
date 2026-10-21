@@ -1,0 +1,8 @@
+{
+  "searchStringsArray": ["restaurant"],
+  "customGeolocation": {"type": "Point", "coordinates": [-79.9608, 40.4673], "radiusKm": 1.5},
+  "maxCrawledPlacesPerSearch": 20,
+  "language": "en",
+  "scrapePlaceDetailPage": false,
+  "bro": {"concurrency": 1, "maxRunSeconds": 900, "gl": "us"}
+}

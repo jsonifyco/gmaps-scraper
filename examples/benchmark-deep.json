@@ -1,0 +1,25 @@
+{
+ "placeIds": [
+  "ChIJh7TlOvV1nkcRBYcxESo1h_o",
+  "ChIJ7eZfpdZPqEcRga_sedonpA8",
+  "ChIJtxtZkkhZwokR1ZVx6_R3SSk",
+  "ChIJG6g-slDxNIgR2g4PV1mDO8I",
+  "ChIJg2JtgUxOqEcRd1FPPyI0XCI",
+  "ChIJY4oV6DjxNIgRmaNZyV7lqY8",
+  "ChIJZapX9vjzNIgRSu7rbfVfChA",
+  "ChIJPz5dmKX2NIgRgcESndEXxLQ",
+  "ChIJPyb_JskEdkgRDw4ffzUc8cQ",
+  "ChIJS1VVVRDyNIgRZH6zaKD986M",
+  "ChIJCQNXddpRqEcRYM7pVt99ibw",
+  "ChIJ4Q7iHh9OqEcRoYdM_f1daq0"
+ ],
+ "language": "en",
+ "scrapePlaceDetailPage": true,
+ "reviewsSort": "newest",
+ "maxReviews": 99999,
+ "bro": {
+  "concurrency": 1,
+  "maxRunSeconds": 21600,
+  "reviewsExhaustive": true
+ }
+}

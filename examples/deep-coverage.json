@@ -1,0 +1,14 @@
+{
+  "searchStringsArray": ["coffee shop", "cafe"],
+  "locationQuery": "SoHo, Manhattan, New York, USA",
+  "maxCrawledPlacesPerSearch": 100,
+  "language": "en",
+  "scrapePlaceDetailPage": true,
+  "categoryFilterWords": ["cafe", "bakery", "coffee shop"],
+  "bro": {
+    "concurrency": 3,
+    "coverage": "deep",
+    "minCellKm": 0.2,
+    "maxRunSeconds": 3600
+  }
+}
