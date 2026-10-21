@@ -1,4 +1,4 @@
-# Google Maps Scraper: Open-Source Python Alternative to Apify
+# Open-Source Python Google Maps Scraper
 
 Open Source Google Maps scraper built on the [getbro.ws](https://getbro.ws) stealth browser framework.
 
